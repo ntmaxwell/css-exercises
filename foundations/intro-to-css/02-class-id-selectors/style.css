@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+background-color: rgb(235, 40, 177);
+}
+
+#second {
+    color: rgb(52, 0, 207);
+    font-size: 36px;
+}
+
+.odd.unique {
+    font-size: 55px;
+}
+
+#fourth {
+    background-color: rgb(40, 235, 115);
+    font-size: 24px;
+    font-weight: bold;
+}
